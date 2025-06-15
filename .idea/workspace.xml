@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05b54566-5e4a-43b1-8fa2-ca45c0f5e845" name="Changes" comment="Password Reset Api">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Department/APIs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Department/APIs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/User/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AirbusA321NX&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AirbusA321NX/Grievances_Cell.git&quot;,
+    &quot;accountId&quot;: &quot;f4effff6-864b-476b-a4ad-75a56d16b574&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../django_projects/.venv/Lib/site-packages/pydantic/_internal/_config.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2y2ID2dKGJK8QGOsWlc4rsI74wB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pycharm/Grievance_cell&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05b54566-5e4a-43b1-8fa2-ca45c0f5e845" name="Changes" comment="" />
+      <created>1749026117659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749026117659</updated>
+    </task>
+    <task id="LOCAL-00001" summary="crud.py grievance create">
+      <option name="closed" value="true" />
+      <created>1749198878234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749198878234</updated>
+    </task>
+    <task id="LOCAL-00002" summary="crud.py grievance parameter fix">
+      <option name="closed" value="true" />
+      <created>1749199128895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749199128895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="crud.py grievance parameter fix">
+      <option name="closed" value="true" />
+      <created>1749199347581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749199347581</updated>
+    </task>
+    <task id="LOCAL-00004" summary="model.py fix">
+      <option name="closed" value="true" />
+      <created>1749199665513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749199665513</updated>
+    </task>
+    <task id="LOCAL-00005" summary="crud import fix">
+      <option name="closed" value="true" />
+      <created>1749199821902</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749199821902</updated>
+    </task>
+    <task id="LOCAL-00006" summary="crud import fix">
+      <option name="closed" value="true" />
+      <created>1749447792669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749447792669</updated>
+    </task>
+    <task id="LOCAL-00007" summary="enum  users">
+      <option name="closed" value="true" />
+      <created>1749451143065</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749451143065</updated>
+    </task>
+    <task id="LOCAL-00008" summary="make crud files for all apps + fixing APIs , models (for user) , adding logic to transfer ticket id to department">
+      <option name="closed" value="true" />
+      <created>1749451653396</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749451653396</updated>
+    </task>
+    <task id="LOCAL-00009" summary="API Logic Fix For All files + Dependency.py added for Role check for all entities">
+      <option name="closed" value="true" />
+      <created>1749452344683</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749452344683</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed grievance paramter where one can see when grievance was made/resolved">
+      <option name="closed" value="true" />
+      <created>1749463694606</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749463694606</updated>
+    </task>
+    <task id="LOCAL-00011" summary="warning removed">
+      <option name="closed" value="true" />
+      <created>1749613602757</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749613602757</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Authentication 1st Commit">
+      <option name="closed" value="true" />
+      <created>1749614470985</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1749614470985</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Login signup  internal server error fix">
+      <option name="closed" value="true" />
+      <created>1749623233367</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1749623233367</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Login signup  internal server error fix">
+      <option name="closed" value="true" />
+      <created>1749626769814</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1749626769814</updated>
+    </task>
+    <task id="LOCAL-00015" summary="O2Auth changed to HTTPBearer">
+      <option name="closed" value="true" />
+      <created>1749633955341</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1749633955341</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Password Reset Api">
+      <option name="closed" value="true" />
+      <created>1749634599326</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1749634599326</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="crud.py grievance create" />
+    <MESSAGE value="crud.py grievance parameter fix" />
+    <MESSAGE value="model.py fix" />
+    <MESSAGE value="crud import fix" />
+    <MESSAGE value="enum  users" />
+    <MESSAGE value="make crud files for all apps + fixing APIs , models (for user) , adding logic to transfer ticket id to department" />
+    <MESSAGE value="API Logic Fix For All files + Dependency.py added for Role check for all entities" />
+    <MESSAGE value="fixed grievance paramter where one can see when grievance was made/resolved" />
+    <MESSAGE value="warning removed" />
+    <MESSAGE value="Authentication 1st Commit" />
+    <MESSAGE value="Login signup  internal server error fix" />
+    <MESSAGE value="O2Auth changed to HTTPBearer" />
+    <MESSAGE value="Password Reset Api" />
+    <option name="LAST_COMMIT_MESSAGE" value="Password Reset Api" />
+  </component>
+</project>
